@@ -11,8 +11,7 @@ This repository contains my **latest professional resume** for roles in:
 ---
 
 ## 📌 Download My Resume  
-👉 **[Click here to download my resume (DOCX)](./Sravani%20Esampally%20git.docx)**
-
+👉 **[Click here to download my resume (DOCX)](https://github.com/sravani-sony/sravani-resume/raw/main/Sravani%20Esampally%20git.docx)**
 
 ---
 
